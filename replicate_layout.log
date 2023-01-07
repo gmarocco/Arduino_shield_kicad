@@ -1,0 +1,40 @@
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 303:Plugin executed on: 'win32'
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 304:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 305:KiCad build version: (6.0.7)
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 306:Plugin version: 1.2.1
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 307:Frame repr: <wx._core.Frame object at 0x000001991D18AF70>
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 331:Preparing replicator with U2 as a reference
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 359:source anchor footprint is 'U2'
+Located on: ['02_COMPARATORE_AUDIO']
+With filenames: ['02_COMPARATORE_AUDIO.kicad_sch']
+With sheet_id:['02_COMPARATORE_AUDIO']
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 366:Corresponding footprints are 
+[('U5', ['02_COMPARATORE_AUDIO2']), ('U4', ['02_COMPARATORE_AUDIO1']), ('U2', ['02_COMPARATORE_AUDIO'])]
+09-27 21:05:43 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 378:Showing dialog
+09-27 21:05:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'02_COMPARATORE_AUDIO', file:'02_COMPARATORE_AUDIO.kicad_sch'
+09-27 21:05:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['02_COMPARATORE_AUDIO1'], ['02_COMPARATORE_AUDIO2']]
+09-27 21:05:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1112:Level selected: ['02_COMPARATORE_AUDIO']
+09-27 21:05:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 384:Toolbar position: wx.Point(2929, 70)
+09-27 21:05:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 390:Dialog position: wx.Point(2565, 70)
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'02_COMPARATORE_AUDIO', file:'02_COMPARATORE_AUDIO.kicad_sch'
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['02_COMPARATORE_AUDIO1'], ['02_COMPARATORE_AUDIO2']]
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 157:Replicating layout
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 154:Starting replication of sheets: [['02_COMPARATORE_AUDIO1'], ['02_COMPARATORE_AUDIO2']]
+on level: ['02_COMPARATORE_AUDIO']
+with tracks=True, zone=True, text=True, text=True, containing=True, remove=False, locked footprints=False, by_group=False
+09-27 21:05:51 root 243:updating GUI message: 'Preparing for replication'
+09-27 21:05:51 root 248:updating GUI with: 0
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 224:Getting the list of source footprints
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 239:Getting the list of all the remaining footprints
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 244:Getting nets local to source footprints
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 247:Getting source bounding box
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 251:Getting source tracks
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source zones
+09-27 21:05:51 root 248:updating GUI with: 62
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source text items
+09-27 21:05:51 root 248:updating GUI with: 75
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 284:Getting source drawing items
+09-27 21:05:51 root 243:updating GUI message: 'Replicating footprints'
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 678:Replicating footprints
+09-27 21:05:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['02_COMPARATORE_AUDIO1']
